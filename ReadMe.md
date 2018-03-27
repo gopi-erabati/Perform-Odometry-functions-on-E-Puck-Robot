@@ -1,0 +1,1 @@
+Odometry is the use of data from motion sensors to estimate change in position over time. It is used in robotics by some legged or wheeled robots to estimate their position relative to a starting location. This methodology is useful in small displacements. The advantage of this methodology is it's easy to use but it also prone to errors which would integrate on time.
